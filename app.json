@@ -27,7 +27,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "26_6_2a2f_adc5_4a95"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
@@ -36,11 +36,11 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
-      "required": true
+      "required": "false"
     },
     "HEROKU_API_KEY": {
       "description": "Heroku account api key, https://dashboard.heroku.com/account",
-      "required": true
+      "required": "false"
     },
     "RMBG_KEY": {
       "description": "API key from remove.bg, required for plugin rmbg",
@@ -121,7 +121,16 @@
       "description": "Disable start Message",
       "required": false,
       "value": "false"
+    },
     }
+  "OWNER_NUMBER": "94727849423",
+  "OWNER_NAME": "Kaveesha",
+  "OPENAI_API_KEY": "null",
+  "MONGODB_URI": "mongodb+srv://darkdragonv4:ameesha@cluster0.ttcxkqt.mongodb.net",
+  "PACK_INFO": "Sam;Pandey",
+  "PREFIX": "."
+   
+  }
   },
   "addons": [
     {
